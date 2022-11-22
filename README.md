@@ -30,5 +30,5 @@ Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium
 #### P.S. Ещё чуть-чуть и освою
 JavaScript, Android Studio, Espresso, Jenkins, Linux, тестирование производительности и безопасности
 
-##### P.P.S. И переименуюсь в Middle 😆
+##### P.P.S. И переименуюсь в Middle 😁
 
