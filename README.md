@@ -21,7 +21,7 @@ Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium
   
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
 
-### Сертификаты Нетологии
+### Сертификаты
 * [Ручное тестирование веб-приложений](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Manual-Testing-Of-Web-App.pdf) 
 * [Git — система контроля версий](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-GIT.pdf)
 * [Java для тестировщиков](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Java-For-QA.pdf)
