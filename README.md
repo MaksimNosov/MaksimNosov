@@ -4,7 +4,7 @@
 [Моё резюме](https://docs.google.com/document/d/1ScEGZ-BN2FmLecZY0bWfji25RoyRuBQ_dxHW9H98KFk/edit?usp=sharing)  
 
 ### Харды
-Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools
+Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools
 
 ### Вот, что я умею
 * **Тестирование веб-сайта** (составление тестовой документации, поиск багов, тестирование вёрстки)  
