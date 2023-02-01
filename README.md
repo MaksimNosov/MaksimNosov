@@ -4,7 +4,7 @@
 [Моё резюме](https://docs.google.com/document/d/1ScEGZ-BN2FmLecZY0bWfji25RoyRuBQ_dxHW9H98KFk/edit?usp=sharing)  
 
 ### Харды
-Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools, Playwright, Puppeteer, Cypress, Swagger
+Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools, Playwright, Puppeteer, Cypress, Cucumber, Swagger
 
 ### Вот, что я умею
 * **Тестирование веб-сайта** (составление тестовой документации, поиск багов, тестирование вёрстки)  
@@ -19,7 +19,7 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
   *[Курсовой проект](https://github.com/netology-code/aqa-qamid-diplom)*  
   *[Решение](https://github.com/MaksimNosov/Aqa-qamid-diplom)*  
   
-* **Автоматизация тестирования веб-интерфейсов** на JavaScript (с использованием Playwright, Puppeteer, Cypress, Swagger)                                               
+* **Автоматизация тестирования веб-интерфейсов** на JavaScript (с использованием Playwright, Puppeteer, Cypress, Cucumber, Swagger)                                               
   *[Решение](https://github.com/MaksimNosov/JSAQA)*
   
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
