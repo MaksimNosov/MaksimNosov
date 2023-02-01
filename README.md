@@ -19,7 +19,7 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
   *[Курсовой проект](https://github.com/netology-code/aqa-qamid-diplom)*  
   *[Решение](https://github.com/MaksimNosov/Aqa-qamid-diplom)*  
   
-* **Автоматизация тестирования веб-интерфейсов** на JavaScript (с использованием Playwright, Puppeteer, Cypress, Swagger)
+* **Автоматизация тестирования веб-интерфейсов** на JavaScript (с использованием Playwright, Puppeteer, Cypress, Swagger)                                               
   *[Решение](https://github.com/MaksimNosov/JSAQA)*
   
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
@@ -35,7 +35,7 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
 
 
 #### P.S. Ещё чуть-чуть и освою
-JavaScript, Android Studio, Espresso, Jenkins, Linux, тестирование производительности и безопасности
+Android Studio, Espresso, Jenkins, Linux, тестирование производительности и безопасности
 
 ##### P.P.S. И переименуюсь в Middle 😁
 
