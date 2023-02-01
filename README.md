@@ -22,11 +22,14 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
 
 ### Сертификаты
+* [Java для тестировщиков](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Java-For-QA.pdf)
+* [Автоматизированное тестирование](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Automation-Testing.pdf)
+* [JavaScript для тестировщиков](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-JavaScript-For-QA.pdf)
+* [Автоматизация тестирования веб-интерфейсов]()
 * [Ручное тестирование веб-приложений](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Manual-Testing-Of-Web-App.pdf) 
 * [Git — система контроля версий](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-GIT.pdf)
-* [Java для тестировщиков](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Java-For-QA.pdf)
-* [JavaScript для тестировщиков](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-JavaScript-For-QA.pdf)
-* [Автоматизированное тестирование](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Automation-Testing.pdf)
+
+
 
 #### P.S. Ещё чуть-чуть и освою
 JavaScript, Android Studio, Espresso, Jenkins, Linux, тестирование производительности и безопасности
