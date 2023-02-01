@@ -4,14 +4,14 @@
 [Моё резюме](https://docs.google.com/document/d/1ScEGZ-BN2FmLecZY0bWfji25RoyRuBQ_dxHW9H98KFk/edit?usp=sharing)  
 
 ### Харды
-Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools
+Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools, Playwright, Puppeteer, Cypress, Swagger
 
 ### Вот, что я умею
 * **Тестирование веб-сайта** (составление тестовой документации, поиск багов, тестирование вёрстки)  
   *[Курсовой проект](https://github.com/netology-code/iqa-diplom/blob/main/README.md)*  
   *[Решение](https://docs.google.com/spreadsheets/d/1ZFTC-jcTKYsRICzDlTUDIO_9BUsBC1X7kgaMxaWJXQQ/edit#gid=0)*  
   
-* **Тестирование приложения** для трекинга игровой активности (поиск дефектов, добавление тестов и составление баг-репортов, исправление дефектов и реализация методов)  
+* **Тестирование приложения** на Java для трекинга игровой активности (поиск дефектов, добавление тестов и составление баг-репортов, исправление дефектов и реализация методов)  
   *[Командный проект](https://github.com/netology-code/javaqa-team-diplom)*  
   *[Решение](https://github.com/2Evgen/TeamProject)*  
   
@@ -19,9 +19,8 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
   *[Курсовой проект](https://github.com/netology-code/aqa-qamid-diplom)*  
   *[Решение](https://github.com/MaksimNosov/Aqa-qamid-diplom)*  
   
-* **Автоматизация тестирования веб-интерфейсов** на JavaScript (с использованием Playwright, Puppeteer, Cypress)
-  
-  *[Решение](https://github.com/MaksimNosov/JSAQA)
+* **Автоматизация тестирования веб-интерфейсов** на JavaScript (с использованием Playwright, Puppeteer, Cypress, Swagger)
+  *[Решение](https://github.com/MaksimNosov/JSAQA)*
   
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
 
