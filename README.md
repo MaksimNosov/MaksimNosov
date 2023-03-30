@@ -24,6 +24,8 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
   
 * **Тестирование мобильных приложений**                                               
   *[UI Automator](https://github.com/MaksimNosov/MQA_2.2_UI_Automator.git)*
+  *[Appium](https://github.com/MaksimNosov/MQA_2.4_Appium.git)*
+  *[Espresso](https://github.com/MaksimNosov/MQA_2.5_Espresso_Part_1.git)*
   
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
 
@@ -38,7 +40,4 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
 
 
 #### P.S. Ещё чуть-чуть и освою
-Android Studio, Espresso, Jenkins, Linux, тестирование производительности и безопасности
-
-##### P.P.S. И переименуюсь в Middle 😁
-
+Jenkins, Linux, тестирование производительности и безопасности
