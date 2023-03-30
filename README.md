@@ -23,9 +23,9 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
   *[Решение](https://github.com/MaksimNosov/JSAQA)*
   
 * **Тестирование мобильных приложений**                                               
-  *[UI Automator](https://github.com/MaksimNosov/MQA_2.2_UI_Automator.git)*
-  *[Appium](https://github.com/MaksimNosov/MQA_2.4_Appium.git)*
-  *[Espresso](https://github.com/MaksimNosov/MQA_2.5_Espresso_Part_1.git)*
+  *[UI Automator](https://github.com/MaksimNosov/MQA_2.2_UI_Automator.git)*                     
+  *[Appium](https://github.com/MaksimNosov/MQA_2.4_Appium.git)*                   
+  *[Espresso](https://github.com/MaksimNosov/MQA_2.5_Espresso_Part_1.git)*            
   
 * **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
 
