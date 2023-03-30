@@ -36,6 +36,7 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
 * [Автоматизация тестирования веб-интерфейсов](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Web-Interface-Testing-Automation.pdf)
 * [Ручное тестирование веб-приложений](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Manual-Testing-Of-Web-App.pdf) 
 * [Git — система контроля версий](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-GIT.pdf)
+* [Тестирование мобильных приложений](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Mobile-Application-Testing.pdf)
 
 
 
