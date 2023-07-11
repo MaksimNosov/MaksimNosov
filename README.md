@@ -4,7 +4,7 @@
 [Моё резюме](https://docs.google.com/document/d/1ScEGZ-BN2FmLecZY0bWfji25RoyRuBQ_dxHW9H98KFk/edit?usp=sharing)  
 
 ### Харды
-Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Docker Compose, Jira, GitHub, DevTools, Playwright, Puppeteer, Cypress, Cucumber, Swagger, Android Studio, Espresso
+Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium, JUnit, Docker, Jira, GitHub, DevTools, Playwright, Puppeteer, Cypress, Cucumber, Swagger, JMeter, Android Studio, Espresso, Appium, influxDB, Grafana, Wireshark, Charles
 
 ### Вот, что я умею
 * **Тестирование веб-сайта** (составление тестовой документации, поиск багов, тестирование вёрстки)  
@@ -23,11 +23,13 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
   *[Решение](https://github.com/MaksimNosov/JSAQA)*
   
 * **Тестирование мобильных приложений**                                               
-  *[UI Automator](https://github.com/MaksimNosov/MQA_2.2_UI_Automator.git)*                     
-  *[Appium](https://github.com/MaksimNosov/MQA_2.4_Appium.git)*                   
-  *[Espresso](https://github.com/MaksimNosov/MQA_2.5_Espresso_Part_1.git)*            
+  *[Appium](https://github.com/MaksimNosov/Diplom_QAMID)*                                                                
+  *[Espresso](https://github.com/MaksimNosov/MQA_2.5_Espresso_Part_1)*                       
+
+* **Нагрузочное тестирование**                                               
+  *[WEB](https://github.com/MaksimNosov/LOADQA_3_Load_web)*                     
+  *[DB](https://github.com/MaksimNosov/LOADQA_4_Load_db)*                   
   
-* **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
 
 ### Сертификаты
 * [Java для тестировщиков](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Java-For-QA.pdf)
@@ -37,8 +39,8 @@ Java, JavaScript, IntelliJ IDEA, VS Code, MySQL, PostgreSQL, Allure, Report Port
 * [Ручное тестирование веб-приложений](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Manual-Testing-Of-Web-App.pdf) 
 * [Git — система контроля версий](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-GIT.pdf)
 * [Тестирование мобильных приложений](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Mobile-Application-Testing.pdf)
+* [Нагрузочное тестирование](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Load-Testing.pdf)
+* [Тестирование безопасности](https://github.com/MaksimNosov/Training-Certificates/blob/master/Certificate-Security-Testing.pdf)
+ 
 
 
-
-#### P.S. Ещё чуть-чуть и освою
-Jenkins, Linux, тестирование производительности и безопасности
